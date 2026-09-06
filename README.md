@@ -1,5 +1,3 @@
-Absolutely — here is the **complete Step 9 repo**, revised so that it consistently avoids the word **“wrong”** and instead uses precise, neutral eligibility language.
-
 # Step 9 — Full-Text Screening
 
 [← Previous Step: Title and Abstract Screening](../step-8-title-and-abstract-screening/)
