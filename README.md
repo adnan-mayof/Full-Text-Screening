@@ -1,3 +1,5 @@
+Absolutely — here is the **complete Step 9 repo**, revised so that it consistently avoids the word **“wrong”** and instead uses precise, neutral eligibility language.
+
 # Step 9 — Full-Text Screening
 
 [← Previous Step: Title and Abstract Screening](../step-8-title-and-abstract-screening/)
@@ -8,17 +10,17 @@
 
 Maya has finished screening the titles and abstracts in Rayyan.
 
-She excluded records that clearly did not meet her eligibility criteria and retained records that appeared potentially relevant.
+She excluded records that clearly did not meet her eligibility criteria and retained records that appeared potentially eligible.
 
-Now she has a smaller set of studies that need further examination.
+Now she has a smaller set of records that need further examination.
 
 > **Maya:** “I finished the title and abstract screening. What happens next?”
 
-> **Mentor:** “Now we need to retrieve and examine the **full text** of the potentially eligible studies.”
+> **Mentor:** “Now we need to retrieve and examine the **full text** of the potentially eligible records.”
 
 > **Maya:** “Is this where I make the final decision about whether a study belongs in my review?”
 
-> **Mentor:** “Exactly. Full-text screening is where you determine whether each potentially eligible report actually meets all of your eligibility criteria.”
+> **Mentor:** “Exactly. Full-text screening is where you determine whether each potentially eligible report meets all of your eligibility criteria.”
 
 ---
 
@@ -39,7 +41,7 @@ Maya keeps track of which full texts she has obtained.
 
 Her workflow is now:
 
-```text id="4j1g3a"
+```text
 Title and Abstract Screening
           ↓
 Potentially Eligible Records
@@ -67,7 +69,7 @@ Maya checks the available sources specified by her review workflow.
 
 For example:
 
-```text id="mx0t4g"
+```text
 Publisher
     ↓
 University Library
@@ -81,9 +83,9 @@ Other Appropriate Retrieval Route
 
 If the full text still cannot be obtained, Maya records that information.
 
-She should use the exclusion/retrieval category specified in her protocol rather than simply treating the study as irrelevant.
+She should use the retrieval or exclusion category specified in her protocol rather than simply treating the study as irrelevant.
 
-> **Mentor:** “Remember, **unable to retrieve the full text** is different from **the study does not meet the eligibility criteria**.”
+> **Mentor:** “Remember, **full text unavailable** is different from **the study does not meet the eligibility criteria**.”
 
 ---
 
@@ -113,7 +115,7 @@ For example:
 
 Maya asks:
 
-> **Maya:** “Why do we need another screening stage? Didn't I already screen these studies?”
+> **Maya:** “Why do we need another screening stage? Didn't I already screen these records?”
 
 > **Mentor:** “The two stages have different purposes.”
 
@@ -133,7 +135,7 @@ Maya asks:
 
 She now has much more information.
 
-```text id="0l1z6j"
+```text
 Title + Abstract
       ↓
 Potential Eligibility
@@ -161,11 +163,13 @@ Maya finds a study about AI and student learning, but the participants are **K�
 
 The study may be highly relevant to the topic, but it does not meet Maya's population criterion.
 
-She excludes it.
+She records:
+
+> **Population does not meet eligibility criteria**
 
 The important point is:
 
-> **A study can be highly relevant to the topic but still be ineligible for a particular systematic review.**
+> **A study can be highly relevant to the topic but still not meet the eligibility criteria for a particular systematic review.**
 
 ---
 
@@ -173,17 +177,18 @@ The important point is:
 
 Maya should record **why** an eligible-looking full-text study was excluded.
 
-For example:
+Possible reasons include:
 
-```text id="t7rj3p"
-Wrong population
-Wrong intervention
-Wrong comparison
-Wrong outcome
-Wrong study design
-Wrong publication type
-Not enough required data
-Duplicate publication
+```text
+Population does not meet eligibility criteria
+Intervention does not meet eligibility criteria
+Comparison does not meet eligibility criteria
+Outcome does not meet eligibility criteria
+Study design does not meet eligibility criteria
+Publication type does not meet eligibility criteria
+Language criterion not met
+Required information unavailable
+Duplicate or related report
 Full text unavailable
 Other protocol-defined reason
 ```
@@ -198,13 +203,13 @@ For example:
 
 Better:
 
-✅ **Wrong population — participants were K–12 students, but the review includes higher education students.**
+✅ **Population does not meet eligibility criteria — participants were K–12 students, but the review includes higher education students.**
 
 ---
 
 # 7. What If a Study Has More Than One Reason for Exclusion?
 
-Maya encounters a study that has the wrong population **and** the wrong study design.
+Maya encounters a study that has a population that does not meet her eligibility criteria and also uses a study design that does not meet her criteria.
 
 > **Maya:** “Which reason should I record?”
 
@@ -232,7 +237,9 @@ But the full text reveals that the participants were actually **high school stud
 
 Maya now has enough information to determine that the study does not meet her higher-education population criterion.
 
-She records the appropriate exclusion reason.
+She records:
+
+> **Population does not meet eligibility criteria**
 
 This is why full-text screening is necessary.
 
@@ -252,7 +259,7 @@ A single study can produce multiple reports.
 
 For example:
 
-```text id="z25c0a"
+```text
 One Study
     ├── Journal Article
     ├── Conference Paper
@@ -316,30 +323,30 @@ Maya now records the outcome of full-text screening.
 
 For example:
 
-```text id="wd2s9q"
-Records entering full-text screening:     854
+```text
+Records entering full-text screening:      854
 
-Full texts included:                      126
+Full texts included:                       126
 
-Full texts excluded:                      728
+Full texts excluded:                       728
 ```
 
 She also records the reasons for exclusion.
 
 For example:
 
-| Exclusion Reason              |  Number |
-| ----------------------------- | ------: |
-| Wrong population              |     215 |
-| Wrong intervention            |     174 |
-| Wrong study design            |     143 |
-| Wrong outcome                 |      96 |
-| Wrong publication type        |      42 |
-| Duplicate/related report      |      31 |
-| Other protocol-defined reason |      27 |
-| **Total**                     | **728** |
+| Exclusion Reason                                    |  Number |
+| --------------------------------------------------- | ------: |
+| Population does not meet eligibility criteria       |     215 |
+| Intervention does not meet eligibility criteria     |     174 |
+| Study design does not meet eligibility criteria     |     143 |
+| Outcome does not meet eligibility criteria          |      96 |
+| Publication type does not meet eligibility criteria |      42 |
+| Duplicate or related report                         |      31 |
+| Other protocol-defined reason                       |      27 |
+| **Total**                                           | **728** |
 
-These records will help Maya later describe the study-selection process.
+These numbers will help Maya later describe the study-selection process.
 
 ---
 
@@ -347,7 +354,7 @@ These records will help Maya later describe the study-selection process.
 
 Maya summarizes the process:
 
-```text id="4k3xqx"
+```text
 Potentially Eligible Records
           ↓
 Retrieve Full Text
@@ -362,7 +369,8 @@ Check Eligibility Criteria
           ↓
    ┌──────┴──────┐
    ↓             ↓
-Eligible      Ineligible
+Eligible      Does Not Meet
+              Eligibility Criteria
    ↓             ↓
 Include       Record Specific
               Exclusion Reason
@@ -372,7 +380,7 @@ Final Set of Eligible Studies
 
 If two reports may come from the same study:
 
-```text id="yq3w0q"
+```text
 Compare Reports
       ↓
 Authors / Participants / Intervention /
@@ -389,7 +397,7 @@ Handle According to Review Protocol
 
 Maya now has a clear record of what happened at each stage.
 
-```text id="h4xt2m"
+```text
 Records Retrieved
         ↓
 Duplicates Removed
@@ -493,17 +501,17 @@ D. Full-text screening replaces the protocol
 
 A. “I didn't like the study”
 B. “Not interesting”
-C. “Wrong population — participants did not meet the predefined population criterion”
+C. “Population does not meet eligibility criteria — participants did not meet the predefined population criterion”
 D. “The article was too long”
 
 ---
 
 ## Question 6
 
-**What should Maya do if the full text reveals that the participants do not meet her population criterion?**
+**What should Maya do if the participants in a study do not meet her predefined population criterion?**
 
 A. Include the study because the topic is relevant
-B. Exclude the study using the appropriate eligibility criterion
+B. Record that the population does not meet the eligibility criteria
 C. Change the population criterion
 D. Calculate its effect size anyway
 
