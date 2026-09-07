@@ -1,6 +1,6 @@
 # Step 9 — Full-Text Screening
 
-[← Previous Step: Title and Abstract Screening](../step-8-title-and-abstract-screening/)
+[← Previous Step: Title and Abstract Screening](https://github.com/adnan-mayof/Title-and-Abstract-Screening/blob/main/README.md)
 
 ---
 
