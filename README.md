@@ -622,11 +622,13 @@ step-9-full-text-screening/
 ```
 
 ---
+## 🚀 Maya's Journey Continues
 
-### Previous Step
+Maya has now **completed the Full-Text Screening**.
+The next challenge is to conduct the Data Extraction.
 
-**Step 8 — Title and Abstract Screening**
+She is now ready to move to:
 
 ### Next Step
 
-**Step 10 — Data Extraction**
+### **[Step 10 —  Data Extraction](https://github.com/adnan-mayof/Data-Extraction/blob/main/README.md))**
